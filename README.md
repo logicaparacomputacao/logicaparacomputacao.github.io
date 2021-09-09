@@ -2,7 +2,7 @@
 |---	        |
 |  [INÍCIO](https://gabrieldeio.github.io/logicaparacomputacao.github.io/) 	        |
 |  [CRONOGRAMA](cronograma/) 	        |
-|  LISTAS 	        |
+|  [LINKS IMPORTANTES](links-importantes/)	        |
 |   	        |
 
 
