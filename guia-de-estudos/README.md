@@ -1,7 +1,7 @@
 |  NAVEGAÇÃO 	|
 |---	        |
 |  [INÍCIO](https://gabrieldeio.github.io/logicaparacomputacao.github.io/) 	        |
-|  [CRONOGRAMA](https://gabrieldeio.github.io/logicaparacomputacao.github.io/guia-de-estudos/) 	        |
+|  [CRONOGRAMA](https://gabrieldeio.github.io/logicaparacomputacao.github.io/cronograma/) 	        |
 |  [LINKS IMPORTANTES](https://gabrieldeio.github.io/logicaparacomputacao.github.io/links-importantes/)	        |
 |   	        |
 
