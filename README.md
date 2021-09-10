@@ -13,10 +13,12 @@
 
 ## Ementa
  * Lógica proposicional; linguagem e semântica; sistemas dedutivos; aspectos computacionais; o princípio da resolução;lógica de predicados; substituição e resolução; introdução ao PROLOG; aplicações em computação: introdução àespecificação e verificação de programas
+
 #### Referências Básicas
  * SILVA, Flávio Soares Corrêa da; FINGER, Marcelo; MELO, Ana Cristina Vieira de. Lógica para computação. Segunda edição. São Paulo, SP: Thomson, 2017.
  * ALENCAR FILHO, Edgard de. Iniciação à lógica matemática. 18 Ed. São Paulo: Nobel, 2000. 203 p.
  * DAGHLIAN,Jacob. Lógicae álgebra de Boole.4 Ed. São Paulo: Atlas, 1995-2006. 167 p.
+
 #### Referências Complementares
  * SOUZA, João Nunes de. Lógica para ciência da computação: uma introdução concisa. 2 Ed. Rio de Janeiro:Elsevier, 2008. 220 p
  * NICOLETTI, Maria do Carmo. A cartilha Prolog. São Carlos, SP: UFSCar, 2003. 123 p. (Apontamentos. Edufscar).
