@@ -1,8 +1,8 @@
 |  NAVEGAÇÃO 	|
 |---	        |
 |  [INÍCIO](https://gabrieldeio.github.io/logicaparacomputacao.github.io/) 	        |
-|  [CRONOGRAMA](cronograma/) 	        |
-|  [LINKS IMPORTANTES](links-importantes/)	        |
+|  [CRONOGRAMA](https://gabrieldeio.github.io/logicaparacomputacao.github.io/cronograma/) 	        |
+|  [LINKS IMPORTANTES](https://gabrieldeio.github.io/logicaparacomputacao.github.io/links-importantes/)	        |
 |   	        |
 
 # Links importantes
