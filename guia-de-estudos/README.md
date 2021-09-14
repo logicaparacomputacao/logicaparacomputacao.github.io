@@ -103,7 +103,7 @@ A pessoa estudante  deverá ser capaz de:
   * Descrever uma assinatura para um conjunto de fórmulas
   * Verificar se uma fórmula é bem formada em relação a uma assinatura
  
- - Semântica de Lógica de Predicados:
+- Semântica de Lógica de Predicados:
   * Criar um modelo que satisfaça ou não um conjunto de fórmulas
   * Verificar se um modelo satisfaz ou não um conjunto de fórmulas
 
