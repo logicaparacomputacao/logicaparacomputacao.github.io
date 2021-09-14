@@ -28,7 +28,6 @@ A pessoa estudante  deverá ser capaz de:
 
 
 -  Sintaxe de Lógica Clássica Proposicional:
-
   * Representar proposições como símbolos 
   * Escrever fórmulas bem formadas
     * Átomos, Conectivos e suas aridades, regras de formação
@@ -37,8 +36,7 @@ A pessoa estudante  deverá ser capaz de:
   * Desenhar a árvore de análise de uma fórmula
   * Descrever a importância do estudo da sintaxe da Lógica Proposicional
   
-- Semântica de Lógica Clássica Proposicional
-
+- Semântica de Lógica Clássica Proposicional:
   * Escrever uma valoração para um conjunto de átomos
   * Atribuir uma valoração a uma fórmula a partir dos valores de seus átomos
   * Escrever uma valoração que satisfaça (ou falsifique) uma fórmula
@@ -52,10 +50,10 @@ A pessoa estudante  deverá ser capaz de:
   * Verificar se uma fórmula usando um novo conectivo é logicamente equivalente a uma fórmula usando os conectivos vistos anteriormente
   * Descrever a importância de verificar se uma fórmula é consequência lógica de um conjunto de fórmulas
 
-### Como estudar 
+### Como estudar para a Prova 1
 
-  * Lendo o texto [[https://drive.google.com/file/d/1Zu7Rxcaq2i0mKCubkrw-A8Yh9upT2gSo/view?usp=sharing|A Estrutura de um Argumento]] e o texto [[https://criticanarede.com/log_nocoes.html|Algumas noções de lógica, de António Padrão]] que fala de argumentos válidos e argumentos sólidos.
-    * [[https://filosofianaescola.com/logica/argumento-valido-e-correto/|Argumento válido e correto]]
+  * Lendo o texto [A Estrutura de um Argumento](https://drive.google.com/file/d/1Zu7Rxcaq2i0mKCubkrw-A8Yh9upT2gSo/view?usp=sharing) e o texto [Algumas noções de lógica, de António Padrão](https://criticanarede.com/log_nocoes.html), que fala de argumentos válidos e argumentos sólidos.
+    * Texto complementar: [Argumento válido e correto](https://filosofianaescola.com/logica/argumento-valido-e-correto/).
   * Escutando o [[https://soundcloud.com/adolfo-neto/argumentos|Áudio sobre Argumentos]]
   * Lendo o livro de Silva-Finger-Melo, capítulo 1
   * Lendo o livro de Huth-Ryan, capítulo 1 (árvores de análise só tem lá)
