@@ -118,5 +118,6 @@ A pessoa estudante  deverá ser capaz de:
   * Assistindo aos [vídeos na playlist de Lógica para Computação](https://www.youtube.com/playlist?list=PLF5ttO8F-IsRGv0ad2ckPPpJALPG5N7jp).
   * Resolvendo os [exercícios](https://drive.google.com/drive/u/2/folders/16OQQvUeuWlwoJ6XCTgu9lDDlhbEtytYR) e as [provas anteriores](https://drive.google.com/drive/u/2/folders/13NmQn56JTPGpfX4Q0aZ-gqYHqPUwbRM8).
   * Usando os outros [materiais da disciplina](https://drive.google.com/drive/folders/1UccpILTFLBZjeGzatpW41q2C0rbYQjiZ?usp=sharing).
+  * Vendo exemplos do antigo [Trabalho 3 de Lógica para Computação](https://pessoal.dainf.ct.utfpr.edu.br/adolfo/doku.php?id=trabalho_sobre_logica_de_predicados).
 
 
