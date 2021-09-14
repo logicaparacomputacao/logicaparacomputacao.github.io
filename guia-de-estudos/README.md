@@ -53,17 +53,17 @@ A pessoa estudante  deverá ser capaz de:
 ### Como estudar para a Prova 1
 
   * Lendo o texto [A Estrutura de um Argumento](https://drive.google.com/file/d/1Zu7Rxcaq2i0mKCubkrw-A8Yh9upT2gSo/view?usp=sharing) e o texto [Algumas noções de lógica, de António Padrão](https://criticanarede.com/log_nocoes.html), que fala de argumentos válidos e argumentos sólidos.
-    * Texto complementar: [Argumento válido e correto](https://filosofianaescola.com/logica/argumento-valido-e-correto/).
-  * Escutando o [[https://soundcloud.com/adolfo-neto/argumentos|Áudio sobre Argumentos]]
+    * Texto complementar: [Diferença entre argumento válido e correto](https://filosofianaescola.com/logica/argumento-valido-e-correto/).
+  * Escutando o [Áudio sobre Argumentos](https://soundcloud.com/adolfo-neto/argumentos).
   * Lendo o livro de Silva-Finger-Melo, capítulo 1
   * Lendo o livro de Huth-Ryan, capítulo 1 (árvores de análise só tem lá)
-  * Usando o Logicamente-UTFPR
-  * Usando aplicativos/sites que fazem tabela-verdade, como este [[https://mrieppel.net/prog/truthtable.html|Gerador de Tabela Verdade de Michael Rieppel]].
+  * Usando o [Logicamente-UTFPR](https://github.com/adolfont/Logicamente-UTFPR).
+  * Usando aplicativos/sites que fazem tabela-verdade, como este [Gerador de Tabela Verdade de Michael Rieppel](https://mrieppel.net/prog/truthtable.html).
 
-  * Usando o [[https://www.wolframalpha.com/input/?i=p+and+q+implies+r|WolframAlpha]]
-  * Assistindo aos [[https://www.youtube.com/playlist?list=PLF5ttO8F-IsRGv0ad2ckPPpJALPG5N7jp|vídeos na playlist da disciplina]]
-  * Resolvendo os exercícios e as provas anteriores
-  * Respondendo a [[https://speakerdeck.com/adolfont/questoes-de-logica|Questões de Lógica]]
-  * [[https://drive.google.com/drive/folders/1UccpILTFLBZjeGzatpW41q2C0rbYQjiZ?usp=sharing|Materiais]]
+  * Usando o [WolframAlpha](https://www.wolframalpha.com/input/?i=p+and+q+implies+r).
+  * Assistindo aos [vídeos na playlist de Lógica para Computação](https://www.youtube.com/playlist?list=PLF5ttO8F-IsRGv0ad2ckPPpJALPG5N7jp).
+  * Resolvendo os [exercícios](https://drive.google.com/drive/u/2/folders/16OQQvUeuWlwoJ6XCTgu9lDDlhbEtytYR) e as [provas anteriores](https://drive.google.com/drive/u/2/folders/13NmQn56JTPGpfX4Q0aZ-gqYHqPUwbRM8).
+  * Respondendo a [Questões de Lógica](https://speakerdeck.com/adolfont/questoes-de-logica).
+  * Usando os outros [materiais da disciplina](https://drive.google.com/drive/folders/1UccpILTFLBZjeGzatpW41q2C0rbYQjiZ?usp=sharing).
 
 
