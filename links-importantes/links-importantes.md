@@ -1,9 +1,9 @@
 |  NAVEGAÇÃO 	|
 |---	        |
-|  [INÍCIO](https://gabrieldeio.github.io/logicaparacomputacao.github.io/) 	        |
-|  [GUIAS DE ESTUDOS](https://gabrieldeio.github.io/logicaparacomputacao.github.io/guia-de-estudos/) 	        |
-|  [LINKS IMPORTANTES](https://gabrieldeio.github.io/logicaparacomputacao.github.io/links-importantes/)	        |
-|   [MONITORIA](https://gabrieldeio.github.io/logicaparacomputacao.github.io/monitoria/)	        |
+|  [INÍCIO]() 	        |
+|  [GUIAS DE ESTUDOS](logicaparacomputacao.github.io/guia-de-estudos/) 	        |
+|  [LINKS IMPORTANTES](logicaparacomputacao.github.io/links-importantes/)	        |
+|   [MONITORIA](logicaparacomputacao.github.io/monitoria/)	        |
 
 # Links importantes
   * [Playlist de Vídeos no Youtube sobre Lógica para Computação](https://www.youtube.com/playlist?list=PLF5ttO8F-IsRGv0ad2ckPPpJALPG5N7jp)
