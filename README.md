@@ -35,17 +35,17 @@ Introdução à Lógica Computacional. Aplicações de Lógica na Computação. 
     - Texto completo disponível para estudantes regulares no [Bibliotec UTFPR](https://portal.utfpr.edu.br/biblioteca/bibliotec). 
  -  HUTH, Michael; RYAN, Mark. Lógica em ciência da computação: modelagem e argumentação sobre sistemas . 2. ed. Rio de Janeiro, RJ: LTC, 2008. x, 322 p. ISBN 9788521616108.
  -  ALENCAR FILHO, Edgard de. Iniciação à lógica matemática. São Paulo, SP: Nobel, c1975. 203 p. ISBN 852130403X.
- - GALLIER, Jean H. Logic for Computer Science: Foundations of Automatic Theorem Proving. 2003. Disponível em: http://www.cis.upenn.edu/~jean/gbooks/logic.html. Acesso em: 14 set. 2021.
+ - GALLIER, Jean H. Logic for Computer Science: Foundations of Automatic Theorem Proving. 2003. Disponível em: <http://www.cis.upenn.edu/~jean/gbooks/logic.html>. Acesso em: 14 set. 2021.
 
 ### Referências Complementares
- * BARLAND, Ian; et alli. Intro to Logic. Disponível: http://cnx.org/content/col10154/latest/. Acesso em: 14 set. 2021.
+ * BARLAND, Ian; et alli. Intro to Logic. Disponível: <http://cnx.org/content/col10154/latest/>. Acesso em: 14 set. 2021.
 
-  * SPIVEY, Mike. The Z Notation: A Reference Manual. Prentice Hall International Series in Computer Science, 1992. Disponível em: https://spivey.oriel.ox.ac.uk/corner/Z_Reference_Manual. Acesso em: 14 set. 2021.
+  * SPIVEY, Mike. The Z Notation: A Reference Manual. Prentice Hall International Series in Computer Science, 1992. Disponível em: <https://spivey.oriel.ox.ac.uk/corner/Z_Reference_Manual>. Acesso em: 14 set. 2021.
 
-  * BRODA, Krysia; EISENBACH, Susan; KHOSHNEVISAN, Hessam; VICKERS, Steve. Reasoned Programming. Prentice-Hall, 1994. Disponível em: http://www.doc.ic.ac.uk/pandora/firstyearbook.pdf. Acesso em: 14 set. 2021.
+  * BRODA, Krysia; EISENBACH, Susan; KHOSHNEVISAN, Hessam; VICKERS, Steve. Reasoned Programming. Prentice-Hall, 1994. Disponível em: <http://www.doc.ic.ac.uk/pandora/firstyearbook.pdf>. Acesso em: 14 set. 2021.
 
-  * FAVERO, Eloi Luiz. Programação em Prolog: Uma Abordagem Prática. Disponível em: https://docplayer.com.br/25309297-Programacao-em-prolog.html. Acesso em: 14 set. 2021. Universidade Federal do Pará, 2006.
+  * FAVERO, Eloi Luiz. Programação em Prolog: Uma Abordagem Prática. Disponível em: <https://docplayer.com.br/25309297-Programacao-em-prolog.html>. Acesso em: 14 set. 2021. Universidade Federal do Pará, 2006.
 
-  * CONIGLIO, Marcelo; CARNIELLI, Walter A.; BIANCONI, Ricardo. Lógica e Aplicações (em andamento). Disponível em: http://www.cle.unicamp.br/prof/coniglio/LIVRO.pdf. Acesso em: 14 set. 2021.
+  * CONIGLIO, Marcelo; CARNIELLI, Walter A.; BIANCONI, Ricardo. Lógica e Aplicações (em andamento). Disponível em: <http://www.cle.unicamp.br/prof/coniglio/LIVRO.pdf>. Acesso em: 14 set. 2021.
   
   * SOUZA, João Nunes de. Lógica para ciência da computação: fundamentos de linguagem, semântica e sistemas de dedução. Rio de Janeiro: Campus, 2008. 
