@@ -32,7 +32,7 @@ Introdução à Lógica Computacional. Aplicações de Lógica na Computação. 
 #### Referências Básicas
 
  - Silva, F.S.C. D.; Finger, M.; Melo, A.C.V. D. Lógica para computação - 2ª edição. São Paulo: Cengage Learning Brasil, 2018. 9788522127191. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788522127191/. Acesso em: 2021 set. 14.
-  - SILVA, Flávio Soares Corrêa da; FINGER, Marcelo; MELO, Ana Cristina Vieira de. Lógica para computação. Segunda edição. São Paulo, SP: Cengage, 2018.  Texto completo disponível para estudantes regulares no [Bibliotec UTFPR](https://integrada.minhabiblioteca.com.br/books/9788522127191). 
+    - Texto completo disponível para estudantes regulares no [Bibliotec UTFPR](https://portal.utfpr.edu.br/biblioteca/bibliotec). 
 -  HUTH, Michael; RYAN, Mark. Lógica em ciência da computação: modelagem e argumentação sobre sistemas . 2. ed. Rio de Janeiro, RJ: LTC, 2008. x, 322 p. ISBN 9788521616108.
 -  ALENCAR FILHO, Edgard de. Iniciação à lógica matemática. São Paulo, SP: Nobel, c1975. 203 p. ISBN 852130403X.
  - GALLIER, Jean H. Logic for Computer Science: Foundations of Automatic Theorem Proving. 2003. Disponível em: <http://www.cis.upenn.edu/~jean/gbooks/logic.html>. Acesso em: 20 fev. 2009.
