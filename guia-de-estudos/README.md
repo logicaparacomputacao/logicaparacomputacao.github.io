@@ -111,18 +111,12 @@ A pessoa estudante  deverá ser capaz de:
 
 ### Como estudar para a Prova 2
 
-  * Lendo o texto [A Estrutura de um Argumento](https://drive.google.com/file/d/1Zu7Rxcaq2i0mKCubkrw-A8Yh9upT2gSo/view?usp=sharing) e o texto [Algumas noções de lógica, de António Padrão](https://criticanarede.com/log_nocoes.html), que fala de argumentos válidos e argumentos sólidos.
-    * Texto complementar: [Diferença entre argumento válido e correto](https://filosofianaescola.com/logica/argumento-valido-e-correto/).
-  * Escutando o [Áudio sobre Argumentos](https://soundcloud.com/adolfo-neto/argumentos).
-  * Lendo o livro de Silva-Finger-Melo, capítulo 1
-  * Lendo o livro de Huth-Ryan, capítulo 1 (árvores de análise só tem lá)
-  * Usando o [Logicamente-UTFPR](https://github.com/adolfont/Logicamente-UTFPR).
-  * Usando aplicativos/sites que fazem tabela-verdade, como este [Gerador de Tabela Verdade de Michael Rieppel](https://mrieppel.net/prog/truthtable.html).
-
-  * Usando o [WolframAlpha](https://www.wolframalpha.com/input/?i=p+and+q+implies+r).
+  * Lendo o livro de Silva-Finger-Melo, capítulos 2, 4 e 5.
+  * Lendo o livro de Huth-Ryan, capítulo 2.
+  * Lendo as [Regras para o Sistema de Tablôs Analíticos com Fórmulas Marcadas](https://drive.google.com/file/d/1apCXazYc3FdHqyfzHqVPpeGFxtcE2yg4/view?usp=sharing).
+  * Lendo [Lista de Aplicações da Lógica na Computação](https://qeondb.blogspot.com.br/2016/08/lista-de-aplicacoes-da-logica-na.html), [Das aplicações da lógica na Computação](http://www.inf.ufrgs.br/~bsguedes/disc/3/inf05508/aplicacoes.pdf), entre outros textos; complementando com os livros e buscas na Internet.
   * Assistindo aos [vídeos na playlist de Lógica para Computação](https://www.youtube.com/playlist?list=PLF5ttO8F-IsRGv0ad2ckPPpJALPG5N7jp).
   * Resolvendo os [exercícios](https://drive.google.com/drive/u/2/folders/16OQQvUeuWlwoJ6XCTgu9lDDlhbEtytYR) e as [provas anteriores](https://drive.google.com/drive/u/2/folders/13NmQn56JTPGpfX4Q0aZ-gqYHqPUwbRM8).
-  * Respondendo a [Questões de Lógica](https://speakerdeck.com/adolfont/questoes-de-logica).
   * Usando os outros [materiais da disciplina](https://drive.google.com/drive/folders/1UccpILTFLBZjeGzatpW41q2C0rbYQjiZ?usp=sharing).
 
 
