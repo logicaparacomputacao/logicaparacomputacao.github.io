@@ -8,4 +8,4 @@
 
 # Horário de Monitorías
 
-* Em construção :wrench:
+* Em construção 
