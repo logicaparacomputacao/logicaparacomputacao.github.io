@@ -29,7 +29,7 @@ Ao final do curso, a pessoa estudante deve ser capaz de:
 
 Introdução à Lógica Computacional. Aplicações de Lógica na Computação. Sintaxe e semântica da lógica proposicional. Sistemas dedutivos para lógica proposicional. Formalização e verificação de argumentos em lógica proposicional. Sintaxe e semântica da lógica de predicados.
 
-#### Referências Básicas
+## Referências Básicas
 
  - SILVA, F.S.C. D.; FINGER, M.; MELO, A.C.V. D. Lógica para computação - 2ª edição. São Paulo: Cengage Learning Brasil, 2018. 9788522127191. D
     - Texto completo disponível para estudantes regulares no [Bibliotec UTFPR](https://portal.utfpr.edu.br/biblioteca/bibliotec). 
@@ -37,7 +37,7 @@ Introdução à Lógica Computacional. Aplicações de Lógica na Computação. 
  -  ALENCAR FILHO, Edgard de. Iniciação à lógica matemática. São Paulo, SP: Nobel, c1975. 203 p. ISBN 852130403X.
  - GALLIER, Jean H. Logic for Computer Science: Foundations of Automatic Theorem Proving. 2003. Disponível em: http://www.cis.upenn.edu/~jean/gbooks/logic.html. Acesso em: 14 set. 2021.
 
-#### Referências Complementares
+### Referências Complementares
  * BARLAND, Ian; et alli. Intro to Logic. Disponível: http://cnx.org/content/col10154/latest/. Acesso em: 14 set. 2021.
 
   * SPIVEY, Mike. The Z Notation: A Reference Manual. Prentice Hall International Series in Computer Science, 1992. Disponível em: https://spivey.oriel.ox.ac.uk/corner/Z_Reference_Manual. Acesso em: 14 set. 2021.
