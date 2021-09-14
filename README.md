@@ -6,7 +6,11 @@
 |  [LINKS IMPORTANTES](links-importantes/) 	        |
 
 
-# Introdução a Lógica para Computação https://logicaparacomputacao.github.io/
+# Introdução a Lógica para Computação 
+
+Este é o site da disciplina [CSD20 - Introdução à Lógica para a Computação](https://logicaparacomputacao.github.io/), obrigatória nos cursos de [Engenharia de Computação](http://www.utfpr.edu.br/cursos/graduacao/bacharelado/engenharia-da-computacao) e de [Sistemas de Informação](https://portal.utfpr.edu.br/cursos/graduacao/bacharelado/sistemas-de-informacao) da [UTFPR Curitiba](http://www.utfpr.edu.br/campus/curitiba). 
+
+
 
 ## Objetivos
 
