@@ -67,3 +67,62 @@ A pessoa estudante  deverá ser capaz de:
   * Usando os outros [materiais da disciplina](https://drive.google.com/drive/folders/1UccpILTFLBZjeGzatpW41q2C0rbYQjiZ?usp=sharing).
 
 
+## Guia de estudo para a Prova 2
+
+A pessoa estudante  deverá ser capaz de: 
+
+- Sistemas Dedutivos - Teoria:
+  * Descrever o que entende por sistema dedutivo
+  * Descrever o que entende por sistema dedutivo refutacional
+
+- Tablôs Analíticos:
+  * Descrever as regras do sistema de Tablôs Analíticos
+  * Aplicar as regras do sistema de Tablôs Analíticos
+  * Demonstrar (refutar) sequentes usando o sistema de Tablôs Analíticos 
+  * Descrever uma valoração contra-exemplo obtida a partir de um ramo aberto e saturado de um tablô
+ 
+- Dedução Natural:
+  * Descrever as regras do sistema de Dedução Natural
+  * Aplicar as regras do sistema de Dedução Natural
+  * Demonstrar  sequentes usando o sistema de Dedução Natural
+ 
+- Aplicações de Lógica na Computação:
+
+  * Descrever aplicações de Lógica na Computação
+  * Descrever problemas causados por não aplicação de Lógica
+
+- Sintaxe de Lógica de Predicados:
+  * Escrever frases que podem ser representadas como fórmulas da Lógica de Predicados
+  * Representar frases como fórmulas
+  * Ler uma fórmula como uma frase em língua natural
+  * Escrever fórmulas bem formadas a partir de uma assinatura
+  * Descrever funções (símbolos funcionais), constantes e variáveis
+  * Descrever ocorrências livres e presas de variáveis 
+  * Identificar ocorrências livres e presas de variáveis 
+  * Definir assinaturas 
+  * Descrever uma assinatura para um conjunto de fórmulas
+  * Verificar se uma fórmula é bem formada em relação a uma assinatura
+ 
+ - Semântica de Lógica de Predicados:
+  * Criar um modelo que satisfaça ou não um conjunto de fórmulas
+  * Verificar se um modelo satisfaz ou não um conjunto de fórmulas
+
+
+
+### Como estudar para a Prova 2
+
+  * Lendo o texto [A Estrutura de um Argumento](https://drive.google.com/file/d/1Zu7Rxcaq2i0mKCubkrw-A8Yh9upT2gSo/view?usp=sharing) e o texto [Algumas noções de lógica, de António Padrão](https://criticanarede.com/log_nocoes.html), que fala de argumentos válidos e argumentos sólidos.
+    * Texto complementar: [Diferença entre argumento válido e correto](https://filosofianaescola.com/logica/argumento-valido-e-correto/).
+  * Escutando o [Áudio sobre Argumentos](https://soundcloud.com/adolfo-neto/argumentos).
+  * Lendo o livro de Silva-Finger-Melo, capítulo 1
+  * Lendo o livro de Huth-Ryan, capítulo 1 (árvores de análise só tem lá)
+  * Usando o [Logicamente-UTFPR](https://github.com/adolfont/Logicamente-UTFPR).
+  * Usando aplicativos/sites que fazem tabela-verdade, como este [Gerador de Tabela Verdade de Michael Rieppel](https://mrieppel.net/prog/truthtable.html).
+
+  * Usando o [WolframAlpha](https://www.wolframalpha.com/input/?i=p+and+q+implies+r).
+  * Assistindo aos [vídeos na playlist de Lógica para Computação](https://www.youtube.com/playlist?list=PLF5ttO8F-IsRGv0ad2ckPPpJALPG5N7jp).
+  * Resolvendo os [exercícios](https://drive.google.com/drive/u/2/folders/16OQQvUeuWlwoJ6XCTgu9lDDlhbEtytYR) e as [provas anteriores](https://drive.google.com/drive/u/2/folders/13NmQn56JTPGpfX4Q0aZ-gqYHqPUwbRM8).
+  * Respondendo a [Questões de Lógica](https://speakerdeck.com/adolfont/questoes-de-logica).
+  * Usando os outros [materiais da disciplina](https://drive.google.com/drive/folders/1UccpILTFLBZjeGzatpW41q2C0rbYQjiZ?usp=sharing).
+
+
