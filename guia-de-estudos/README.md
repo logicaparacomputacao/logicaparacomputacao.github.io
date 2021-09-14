@@ -27,7 +27,7 @@ A pessoa estudante  deverá ser capaz de:
   * Escrever argumentos sólidos (corretos)
 
 
--  Sintaxe de Lógica Clássica Proposicional:
+- Sintaxe de Lógica Clássica Proposicional:
   * Representar proposições como símbolos 
   * Escrever fórmulas bem formadas
     * Átomos, Conectivos e suas aridades, regras de formação
