@@ -1,6 +1,6 @@
 |  NAVEGAÇÃO 	|
 |---	        |
-|  [INÍCIO](https://gabrieldeio.github.io/logicaparacomputacao.github.io/) 	        |
+|  [INÍCIO](logicaparacomputacao.github.io/) 	        |
 |  [GUIAS DE ESTUDOS](guia-de-estudos/) 	        |
 |  [LINKS IMPORTANTES](links-importantes/)	        |
 |  [MONITORIA](monitoria/) 	        |
