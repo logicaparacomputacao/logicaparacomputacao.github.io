@@ -44,8 +44,8 @@ Introdução à Lógica Computacional. Aplicações de Lógica na Computação. 
 
   * BRODA, Krysia; EISENBACH, Susan; KHOSHNEVISAN, Hessam; VICKERS, Steve. Reasoned Programming. Prentice-Hall, 1994. Disponível em: http://www.doc.ic.ac.uk/pandora/firstyearbook.pdf. Acesso em: 14 set. 2021.
 
-  * FAVERO, Eloi Luiz. Programação em Prolog: Uma Abordagem Prática. Disponível em: http://favero.ufpa.br/. Acesso em: 14 set. 2021. Universidade Federal do Pará, 2006.
+  * FAVERO, Eloi Luiz. Programação em Prolog: Uma Abordagem Prática. Disponível em: https://docplayer.com.br/25309297-Programacao-em-prolog.html. Acesso em: 14 set. 2021. Universidade Federal do Pará, 2006.
 
   * CONIGLIO, Marcelo; CARNIELLI, Walter A.; BIANCONI, Ricardo. Lógica e Aplicações (em andamento). Disponível em: http://www.cle.unicamp.br/prof/coniglio/LIVRO.pdf. Acesso em: 14 set. 2021.
-  * SOUZA, João Nunes de. Lógica para ciência da computação: fundamentos de linguagem, semântica e sistemas de dedução. Rio de Janeiro: Campus, 2002. 308 p. ISBN 85-352-1093-8 
-
+  
+  * SOUZA, João Nunes de. Lógica para ciência da computação: fundamentos de linguagem, semântica e sistemas de dedução. Rio de Janeiro: Campus, 2008. 
