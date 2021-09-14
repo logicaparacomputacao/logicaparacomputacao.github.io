@@ -6,7 +6,7 @@
 |  [LINKS IMPORTANTES](links-importantes/) 	        |
 
 
-# Introdução a Lógica para Computação
+# Introdução a Lógica para Computação https://logicaparacomputacao.github.io/
 
 ## Objetivos
 
