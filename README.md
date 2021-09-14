@@ -2,8 +2,8 @@
 |---	        |
 |  [INÍCIO]() 	        |
 |  [GUIAS DE ESTUDOS](guia-de-estudos/) 	        |
-|  [LINKS IMPORTANTES](links-importantes/)	        |
-|  [MONITORIA](monitoria/) 	        |
+|  [MONITORIA](monitoria/)	        |
+|  [LINKS IMPORTANTES](links-importantes/) 	        |
 
 
 # Introdução a Lógica para Computação

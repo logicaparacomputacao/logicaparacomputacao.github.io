@@ -1,9 +1,9 @@
 |  NAVEGAÇÃO 	|
 |---	        |
-|  [INÍCIO](https://gabrieldeio.github.io/logicaparacomputacao.github.io/) 	        |
-|  [GUIAS DE ESTUDOS](https://gabrieldeio.github.io/logicaparacomputacao.github.io/guia-de-estudos/) 	        |
-|  [LINKS IMPORTANTES](https://gabrieldeio.github.io/logicaparacomputacao.github.io/links-importantes/)	        |
-|   [MONITORIA](https://gabrieldeio.github.io/logicaparacomputacao.github.io/monitoria/)	        |
+|  [INÍCIO](../) 	        |
+|  [GUIAS DE ESTUDOS]() 	        |
+|  [MONITORIA](../monitoria)	        |
+|   [LINKS IMPORTANTES](../links-importantes)	        |
 
 
 # Cronograma

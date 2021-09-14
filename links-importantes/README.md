@@ -1,9 +1,9 @@
 |  NAVEGAÇÃO 	|
 |---	        |
 |  [INÍCIO](../) 	        |
-|  [GUIAS DE ESTUDOS](logicaparacomputacao.github.io/guia-de-estudos/) 	        |
-|  [LINKS IMPORTANTES](logicaparacomputacao.github.io/links-importantes/)	        |
-|   [MONITORIA](logicaparacomputacao.github.io/monitoria/)	        |
+|  [GUIAS DE ESTUDOS](../guia-de-estudos/) 	        |
+|  [MONITORIA](../monitoria/)	        |
+|   [LINKS IMPORTANTES]()	        |
 
 # Links importantes
   * [Playlist de Vídeos no Youtube sobre Lógica para Computação](https://www.youtube.com/playlist?list=PLF5ttO8F-IsRGv0ad2ckPPpJALPG5N7jp)
