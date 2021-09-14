@@ -3,7 +3,7 @@
 |  [INÍCIO](https://gabrieldeio.github.io/logicaparacomputacao.github.io/) 	        |
 |  [GUIAS DE ESTUDOS](guia-de-estudos/) 	        |
 |  [LINKS IMPORTANTES](links-importantes/)	        |
-|   	        |
+|  [MONITORIA](monitoria/) 	        |
 
 
 # Introdução a Lógica para Computação

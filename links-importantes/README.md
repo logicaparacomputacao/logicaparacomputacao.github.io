@@ -3,7 +3,7 @@
 |  [INÍCIO](https://gabrieldeio.github.io/logicaparacomputacao.github.io/) 	        |
 |  [GUIAS DE ESTUDOS](https://gabrieldeio.github.io/logicaparacomputacao.github.io/guia-de-estudos/) 	        |
 |  [LINKS IMPORTANTES](https://gabrieldeio.github.io/logicaparacomputacao.github.io/links-importantes/)	        |
-|   	        |
+|   [MONITORIA](https://github.com/gabrielDeio/logicaparacomputacao.github.io/tree/main/monitoria)	        |
 
 # Links importantes
   * [Playlist de Vídeos no Youtube sobre Lógica para Computação](https://www.youtube.com/playlist?list=PLF5ttO8F-IsRGv0ad2ckPPpJALPG5N7jp)
