@@ -14,7 +14,7 @@ Este é o site da disciplina [CSD20 - Introdução à Lógica para a Computaçã
 
 ## Objetivos
 
-Ao final do curso, o aluno deve ser capaz de:
+Ao final do curso, a pessoa estudante deve ser capaz de:
 
  - Escrever fórmulas bem formadas e analisar semanticamente estas fórmulas utilizando conceitos de sintaxe e semântica de lógica clássica proposicional e de predicados.
 
@@ -31,7 +31,7 @@ Introdução à Lógica Computacional. Aplicações de Lógica na Computação. 
 
 #### Referências Básicas
 
-  - SILVA, Flávio Soares Corrêa da; FINGER, Marcelo; MELO, Ana Cristina Vieira de. Lógica para computação. Segunda edição. São Paulo, SP: Thomson, 2017.
+  - SILVA, Flávio Soares Corrêa da; FINGER, Marcelo; MELO, Ana Cristina Vieira de. Lógica para computação. Segunda edição. São Paulo, SP: Cengage, 2018.  Texto completo disponível para estudantes regulares no [Bibliotec UTFPR](https://integrada.minhabiblioteca.com.br/books/9788522127191). 
 -  HUTH, Michael; RYAN, Mark. Lógica em ciência da computação: modelagem e argumentação sobre sistemas . 2. ed. Rio de Janeiro, RJ: LTC, 2008. x, 322 p. ISBN 9788521616108.
 -  ALENCAR FILHO, Edgard de. Iniciação à lógica matemática. São Paulo, SP: Nobel, c1975. 203 p. ISBN 852130403X.
  - GALLIER, Jean H. Logic for Computer Science: Foundations of Automatic Theorem Proving. 2003. Disponível em: <http://www.cis.upenn.edu/~jean/gbooks/logic.html>. Acesso em: 20 fev. 2009.
