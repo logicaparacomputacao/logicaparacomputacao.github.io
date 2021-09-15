@@ -10,6 +10,8 @@
 
 Este é o site da disciplina [CSD20 - Introdução à Lógica para a Computação](https://logicaparacomputacao.github.io/), obrigatória nos cursos de [Engenharia de Computação](http://www.utfpr.edu.br/cursos/graduacao/bacharelado/engenharia-da-computacao) e de [Sistemas de Informação](https://portal.utfpr.edu.br/cursos/graduacao/bacharelado/sistemas-de-informacao) da [UTFPR Curitiba](http://www.utfpr.edu.br/campus/curitiba). 
 
+A disciplina [CAIA013 - Lógica para Computação](http://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct/documentos/ementario/disciplinas-especificas/linha-de-pesquisa-em-sistemas-inteligentes-e-logica/caia013-logica-para-computacao), do [Programa de Pós-Graduação em Computação Aplicada (PPGCA)](http://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct), acontece de forma espelhada com Introdução a Lógica para Computação, incluindo  Pesquisa em Lógica para Computação e Implementação de provadores automáticos de teoremas.
+
 
 
 ## Objetivos
