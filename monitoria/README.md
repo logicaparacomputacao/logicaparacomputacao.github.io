@@ -6,6 +6,6 @@
 |   [LINKS IMPORTANTES](../links-importantes/)	        |
 
 
-# Horário de Monitorías
+# Horário de Monitorias
 
 * Em construção 
