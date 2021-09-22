@@ -4,7 +4,7 @@
 |  [GUIAS DE ESTUDOS](../guia-de-estudos/) 	        |
 |  [MONITORIA](../monitoria/)	        |
 |  [AVALIAÇÃO](../avaliacao/)	        |
-|   [LINKS IMPORTANTES]()	        |
+|  [LINKS IMPORTANTES]()	        |
 
 # Links importantes
   * [Playlist de Vídeos no Youtube sobre Lógica para Computação](https://www.youtube.com/playlist?list=PLF5ttO8F-IsRGv0ad2ckPPpJALPG5N7jp)
