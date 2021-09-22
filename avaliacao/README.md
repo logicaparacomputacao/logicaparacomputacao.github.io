@@ -1,10 +1,10 @@
 |  NAVEGAÇÃO 	|
 |---	        |
 |  [INÍCIO](../) 	        |
-|  [GUIAS DE ESTUDOS]() 	        |
+|  [GUIAS DE ESTUDOS](../guia-de-estudos/)  	        |
 |  [MONITORIA](../monitoria)	        |
-|  [AVALIAÇÃO](../avaliacao/)	        |
-|   [LINKS IMPORTANTES](../links-importantes)	        |
+|  [AVALIAÇÃO]()	        |
+|  [LINKS IMPORTANTES](../links-importantes)	        |
 
 # Avaliação
 
