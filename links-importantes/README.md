@@ -21,8 +21,10 @@
     * bottom ⊥
     * para todo ∀
     * existe ∃
-    * catraca (usada em sequentes) ⊢ e 
-    * catraca dupla (usada em consequência lógica) ⊨.
+    * catraca (usada em sequentes) ⊢ e ⊬
+    * catraca dupla (usada em consequência lógica) ⊨ e ⊭
+    * equivalência lógica ≡ e ≢
+    * símbolos extras ⊙ ◇↓ □ ⟡
 
 
 ### Outros links 
