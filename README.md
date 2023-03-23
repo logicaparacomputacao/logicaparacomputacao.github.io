@@ -19,11 +19,13 @@ A disciplina [CAIA013 - Lógica para Computação](http://www.utfpr.edu.br/curso
 
 Ao final do curso, a pessoa estudante deve ser capaz de:
 
- - Escrever fórmulas bem formadas e analisar semanticamente estas fórmulas utilizando conceitos de sintaxe e semântica de lógica clássica proposicional e de predicados.
+ - Escrever fórmulas bem formadas e analisar semanticamente estas fórmulas utilizando conceitos de sintaxe e semântica de lógica clássica proposicional.
+
+- Escrever fórmulas bem formadas e analisar semanticamente estas fórmulas utilizando conceitos de sintaxe e semântica de lógica clássica de predicados.
 
  - Demonstrar sequentes utilizando métodos de prova (sistemas dedutivos) para lógica clássica proposicional.
 
- - Formalizar e verificar argumentos em lógica clássica proposicional e de predicados.
+ - Formalizar e verificar argumentos em lógica clássica proposicional.
 
  - Listar diferentes aplicações da lógica na computação.
 
@@ -38,7 +40,7 @@ Introdução à Lógica Computacional. Aplicações de Lógica na Computação. 
     - Texto completo disponível para estudantes regulares no [Bibliotec UTFPR](https://portal.utfpr.edu.br/biblioteca/bibliotec). 
  -  HUTH, Michael; RYAN, Mark. Lógica em ciência da computação: modelagem e argumentação sobre sistemas . 2. ed. Rio de Janeiro, RJ: LTC, 2008. x, 322 p. ISBN 9788521616108.
  -  ALENCAR FILHO, Edgard de. Iniciação à lógica matemática. São Paulo, SP: Nobel, c1975. 203 p. ISBN 852130403X.
- - GALLIER, Jean H. Logic for Computer Science: Foundations of Automatic Theorem Proving. 2003. Disponível em: <http://www.cis.upenn.edu/~jean/gbooks/logic.html>. Acesso em: 14 set. 2021.
+
 
 ### Referências Complementares
  * BARLAND, Ian; et alli. Intro to Logic. Disponível: <http://cnx.org/content/col10154/latest/>. Acesso em: 14 set. 2021.
