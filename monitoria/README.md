@@ -9,4 +9,4 @@
 
 # Horário de Monitorias
 
-* Em construção 
+Ver no Moodle da disciplina.
