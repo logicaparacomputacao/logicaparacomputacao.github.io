@@ -43,7 +43,6 @@ Introdução à Lógica Computacional. Aplicações de Lógica na Computação. 
 
 
 ### Referências Complementares
- * BARLAND, Ian; et alli. Intro to Logic. Disponível: <http://cnx.org/content/col10154/latest/>. Acesso em: 14 set. 2021.
 
   * SPIVEY, Mike. The Z Notation: A Reference Manual. Prentice Hall International Series in Computer Science, 1992. Disponível em: <https://spivey.oriel.ox.ac.uk/corner/Z_Reference_Manual>. Acesso em: 14 set. 2021.
 
