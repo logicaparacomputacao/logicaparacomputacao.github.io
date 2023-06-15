@@ -78,8 +78,8 @@ A pessoa estudante  deverá ser capaz de:
   * Descrever o que entende por sistema dedutivo refutacional
   * Descrever o que entende por sistema dedutivo não-refutacional
 
-- Tablôs Analíticos:
-  * Descrever as regras do sistema de Tablôs Analíticos
+- Tablôs Analíticos para Lógica Proposicional Clássica com Fórmulas Marcadas:
+  * Descrever as regras do sistema de Tablôs Analíticos 
   * Aplicar as regras do sistema de Tablôs Analíticos
   * Demonstrar (refutar) sequentes usando o sistema de Tablôs Analíticos 
   * Descrever uma valoração contra-exemplo obtida a partir de um ramo aberto e saturado de um tablô
