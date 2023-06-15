@@ -111,6 +111,8 @@ A pessoa estudante  deverá ser capaz de:
   * Verificar se um modelo satisfaz ou não um conjunto de fórmulas
 
 
+- Sistemas Dedutivos para Lógica de Predicados:
+  - Visão geral das regras dos quantificadores 
 
 ### Como estudar para a Prova 2
 
