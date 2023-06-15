@@ -84,7 +84,7 @@ A pessoa estudante  deverá ser capaz de:
   * Demonstrar (refutar) sequentes usando o sistema de Tablôs Analíticos 
   * Descrever uma valoração contra-exemplo obtida a partir de um ramo aberto e saturado de um tablô
  
-- Dedução Natural:
+- Dedução Natural para Lógica Proposicional Clássica:
   * Descrever as regras do sistema de Dedução Natural
   * Aplicar as regras do sistema de Dedução Natural
   * Demonstrar  sequentes usando o sistema de Dedução Natural
