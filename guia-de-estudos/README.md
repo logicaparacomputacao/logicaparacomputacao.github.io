@@ -76,6 +76,7 @@ A pessoa estudante  deverá ser capaz de:
 - Sistemas Dedutivos - Teoria:
   * Descrever o que entende por sistema dedutivo
   * Descrever o que entende por sistema dedutivo refutacional
+  * Descrever o que entende por sistema dedutivo não-refutacional
 
 - Tablôs Analíticos:
   * Descrever as regras do sistema de Tablôs Analíticos
