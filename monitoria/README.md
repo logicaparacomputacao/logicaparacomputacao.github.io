@@ -9,4 +9,4 @@
 
 # Horário de Monitorias
 
-Ver no Moodle da disciplina.
+Fale com o professor.
