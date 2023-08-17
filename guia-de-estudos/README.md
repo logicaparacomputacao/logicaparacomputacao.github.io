@@ -21,6 +21,7 @@ A pessoa estudante  deverá ser capaz de:
   * Descrever o que entende por proposição
   * Descrever o que entende por premissa
   * Descrever o que entende por conclusão
+  * Descrever a forma padrão de argumentos
   * Descrever o que entende por argumento complexo
   * Descrever o que entende por premissa não-básica
   * Descrever o que entende por conclusão intermediária
