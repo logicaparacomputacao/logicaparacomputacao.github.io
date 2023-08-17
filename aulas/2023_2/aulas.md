@@ -16,6 +16,15 @@
 ∴ Sócrates é um mortal.
 ```
 
+- Tema: Sonhos
+
+```
+  Meus sonhos são lúcidos.
+  Tudo que é lúcido é bom.
+∴ Meus sonhos são bons.
+```
+
+
 # Aula de 10 de agosto de 2023
 
 
