@@ -3,6 +3,7 @@
 |  [INÍCIO](../) 	        |
 |  [GUIAS DE ESTUDOS](../guia-de-estudos/)  	        |
 |  [MONITORIA](../monitoria)	        |
+|  [ATENDIMENTO](../atendimento/)	        |
 |  [AVALIAÇÃO]()	        |
 |  [LINKS IMPORTANTES](../links-importantes)	        |
 
