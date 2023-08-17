@@ -44,6 +44,15 @@
 ∴ Ronaldo joga futebol.
 ```
 
+- Tema: Estudo e universidade
+
+```
+  Todo universitário estuda.
+  Joãozinho é universitário.
+∴ Joãozinho estuda.
+  Todo estudante não tem tempo.
+∴ João está sem tempo.
+```
 
 
 # Aula de 10 de agosto de 2023
