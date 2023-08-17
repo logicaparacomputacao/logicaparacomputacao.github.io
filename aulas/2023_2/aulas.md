@@ -32,6 +32,19 @@
 ∴ O ser humano tem células.
 ```
 
+## Exemplos de argumentos complexos
+
+- Tema: Sócrates
+
+```
+  Sócrates é um homem.
+  Todo homem é mortal.
+∴ Sócrates é um mortal.
+  Todo homem é mortal.
+∴ Sócrates é um mortal.
+```
+
+
 
 # Aula de 10 de agosto de 2023
 
