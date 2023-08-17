@@ -34,14 +34,14 @@
 
 ## Exemplos de argumentos complexos
 
-- Tema: Sócrates
+- Tema: Futebol e Brasil
 
 ```
-  Sócrates é um homem.
-  Todo homem é mortal.
-∴ Sócrates é um mortal.
-  Todo homem é mortal.
-∴ Sócrates é um mortal.
+  Quem nasce no Brasil é brasileiro.
+  Ronaldo nasceu no Brasil.
+∴ Ronaldo é brasileiro.
+  Todo brasileiro joga futebol.
+∴ Ronaldo joga futebol.
 ```
 
 
