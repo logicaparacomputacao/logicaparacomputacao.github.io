@@ -24,6 +24,14 @@
 ∴ Meus sonhos são bons.
 ```
 
+- Tema: Seres humanos
+
+```
+  O ser humano é um ser vivo.
+  Todo ser vivo tem células.
+∴ O ser humano tem células.
+```
+
 
 # Aula de 10 de agosto de 2023
 
