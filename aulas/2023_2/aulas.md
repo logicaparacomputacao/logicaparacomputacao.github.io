@@ -51,7 +51,7 @@
   Joãozinho é universitário.
 ∴ Joãozinho estuda.
   Todo estudante não tem tempo.
-∴ João está sem tempo.
+∴ Joãozinho está sem tempo.
 ```
 
 
