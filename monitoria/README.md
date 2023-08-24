@@ -26,3 +26,5 @@ Monitor: Lucas
 - QUA - 19:00 as 21:00	Atender todos alunos
 - QUI - 19:00 as 21:00	Atender todos alunos
 - SEX - 19:00 as 20:00	Atender todos alunos
+
+Servidor Discord: https://discord.com/invite/dBc9M3zRkQ
