@@ -2,6 +2,23 @@
 
 - [One-minute paper](https://professoradolfo.blogspot.com/2007/03/one-minute-paper.html)
 
+# 24/08
+
+## Exercício
+
+![image](https://github.com/logicaparacomputacao/logicaparacomputacao.github.io/assets/79562/5d43c92f-ab55-4eab-964b-fb2d749c8d9d)
+
+## Respostas e OMPs
+
+![image](https://github.com/logicaparacomputacao/logicaparacomputacao.github.io/assets/79562/6d3cf7ad-8220-46db-b343-055955afb571)
+
+![image](https://github.com/logicaparacomputacao/logicaparacomputacao.github.io/assets/79562/c1162364-e053-4cee-9e75-bb567edf0ce0)
+
+![image](https://github.com/logicaparacomputacao/logicaparacomputacao.github.io/assets/79562/30764c58-152d-4829-816c-bdb27a68a1c0)
+
+![image](https://github.com/logicaparacomputacao/logicaparacomputacao.github.io/assets/79562/4e18edb2-ba34-4f37-b2af-21413190a654)
+
+
 # Aula de 17 de agosto de 2023
 
 - Introdução
