@@ -14,9 +14,10 @@
 
 ![image](https://github.com/logicaparacomputacao/logicaparacomputacao.github.io/assets/79562/c1162364-e053-4cee-9e75-bb567edf0ce0)
 
+![image](https://github.com/logicaparacomputacao/logicaparacomputacao.github.io/assets/79562/4e18edb2-ba34-4f37-b2af-21413190a654)
+
 ![image](https://github.com/logicaparacomputacao/logicaparacomputacao.github.io/assets/79562/30764c58-152d-4829-816c-bdb27a68a1c0)
 
-![image](https://github.com/logicaparacomputacao/logicaparacomputacao.github.io/assets/79562/4e18edb2-ba34-4f37-b2af-21413190a654)
 
 
 # Aula de 17 de agosto de 2023
