@@ -2,6 +2,15 @@
 
 - [One-minute paper](https://professoradolfo.blogspot.com/2007/03/one-minute-paper.html)
 
+# 31/08
+
+- Escrever uma valoração para um conjunto de átomos
+- Atribuir uma valoração a uma fórmula a partir dos valores de seus átomos
+- Escrever uma valoração que satisfaça (ou falsifique) uma fórmula
+- Classificar uma fórmula em satisfazível, falsificável, válida ou insatisfazível
+- Descrever as relações entre as classificações
+- Desenhar a tabela-verdade de uma fórmula
+
 # 24/08
 
 ## Exercício
