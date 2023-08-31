@@ -37,6 +37,7 @@ A pessoa estudante  deverá ser capaz de:
   * Calcular o tamanho de uma fórmula
   * Calcular o conjunto de subfórmulas (próprias ou não) de uma fórmula
   * Desenhar a árvore de análise de uma fórmula
+  * Remover parênteses de fórmulas bem formadas
   * Descrever a importância do estudo da sintaxe da Lógica Proposicional
   
 - Semântica de Lógica Clássica Proposicional:
