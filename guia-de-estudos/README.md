@@ -129,5 +129,6 @@ A pessoa estudante  deverá ser capaz de:
   * Vendo exemplos do antigo [Trabalho 3 de Lógica para Computação](https://pessoal.dainf.ct.utfpr.edu.br/adolfo/doku.php?id=trabalho_sobre_logica_de_predicados).
   * Usando a [ANITA (Analytic Tableau Proof Assistant)](https://bit.ly/3puOUbK)
   * Usando a [NADIA - Natural DeductIon proof Assistant](https://bit.ly/3BhgKuF)
+  * Usando o [Proof Tool](https://personal.cis.strath.ac.uk/robert.atkey/cs208/prover.html)
 
 
