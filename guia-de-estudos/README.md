@@ -122,7 +122,7 @@ A pessoa estudante  deverá ser capaz de:
   * Lendo o livro de Silva-Finger-Melo, capítulos 2, 4 e 5.
   * Lendo o livro de Huth-Ryan, capítulos 1 e 2.
   * Lendo as [Regras para o Sistema de Tablôs Analíticos com Fórmulas Marcadas](https://drive.google.com/file/d/1apCXazYc3FdHqyfzHqVPpeGFxtcE2yg4/view?usp=sharing).
-  * Lendo [Lista de Aplicações da Lógica na Computação](https://qeondb.blogspot.com.br/2016/08/lista-de-aplicacoes-da-logica-na.html), [Das aplicações da lógica na Computação](http://www.inf.ufrgs.br/~bsguedes/disc/3/inf05508/aplicacoes.pdf), entre outros textos; complementando com os livros e buscas na Internet.
+  * Lendo [Lista de Aplicações da Lógica na Computação](https://qeondb.blogspot.com.br/2016/08/lista-de-aplicacoes-da-logica-na.html), entre outros textos; complementando com os livros e buscas na Internet.
   * Assistindo aos [vídeos na playlist de Lógica para Computação](https://www.youtube.com/playlist?list=PLF5ttO8F-IsRGv0ad2ckPPpJALPG5N7jp).
   * Resolvendo os [exercícios](https://drive.google.com/drive/u/2/folders/16OQQvUeuWlwoJ6XCTgu9lDDlhbEtytYR) e as [provas anteriores](https://drive.google.com/drive/u/2/folders/13NmQn56JTPGpfX4Q0aZ-gqYHqPUwbRM8).
   * Usando os outros [materiais da disciplina](https://drive.google.com/drive/folders/1UccpILTFLBZjeGzatpW41q2C0rbYQjiZ?usp=sharing).
