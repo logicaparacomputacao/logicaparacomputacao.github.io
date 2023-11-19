@@ -56,6 +56,7 @@ A pessoa estudante  deverá ser capaz de:
 
 ### Como estudar para a Prova 1
 
+  * Leno [Capítulo 1 - Argumentos](https://philpapers.org/go.pl?aid=MAGPTN) de Para Todxs NATAL: uma introdução à lógica formal
   * Lendo o texto [A Estrutura de um Argumento](https://drive.google.com/file/d/1Zu7Rxcaq2i0mKCubkrw-A8Yh9upT2gSo/view?usp=sharing) ([também aqui](https://gist.github.com/adolfont/2984d24ac6c03892440f8de006e84d1d)) e o texto [Algumas noções de lógica, de António Padrão](https://criticanarede.com/log_nocoes.html), que fala de argumentos válidos e argumentos sólidos.
     * Texto complementar: [Diferença entre argumento válido e correto](https://filosofianaescola.com/logica/argumento-valido-e-correto/).
   * Escutando o [Áudio sobre Argumentos](https://soundcloud.com/adolfo-neto/argumentos).
