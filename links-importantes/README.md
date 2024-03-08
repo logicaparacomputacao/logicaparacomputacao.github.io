@@ -29,7 +29,3 @@
     * equivalência lógica ≡ e ≢
     * símbolos extras ⊙ ◇↓ □ ⟡
 
-
-### Outros links 
-  * [Página anterior de Lógica para Computação](http://www2.dainf.ct.utfpr.edu.br/Members/adolfo/ensino/disciplinas/logica-para-computacao-if61b)
-  * [Página anterior de Introdução à Lógica para Computação](http://www2.dainf.ct.utfpr.edu.br/Members/adolfo/ensino/disciplinas/introducao-a-logica-para-computacao-csd20)
