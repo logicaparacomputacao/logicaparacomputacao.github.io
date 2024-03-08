@@ -64,7 +64,7 @@ A pessoa estudante  deverá ser capaz de:
   * Lendo o livro de Huth-Ryan, capítulo 1 (árvores de análise só tem lá)
   * Usando o [Logicamente-UTFPR](https://github.com/adolfont/Logicamente-UTFPR).
   * Usando aplicativos/sites que fazem tabela-verdade, como este [Gerador de Tabela Verdade de Michael Rieppel](https://mrieppel.net/prog/truthtable.html), [este de Micael Levi L. Cavalcante - adaptado do de Rieppel
-](http://micalevisk.github.io/TruthTableGenerator-plus/), que calcula consequência lógica e [este de Isaac Luiz Vieira Ferreira]([https://tabelaverdade.gatsbyjs.io/)](https://zaclummys.github.io/tabela-verdade/dist/index.html) que faz as tabelas no formato em que prefiro e que, de forma indireta, calcula o conjunto de subfórmulas de uma fórmula.
+](http://micalevisk.github.io/TruthTableGenerator-plus/), que calcula consequência lógica e [este de Isaac Luiz Vieira Ferreira](https://zaclummys.github.io/tabela-verdade/dist/index.html) que faz as tabelas no formato em que prefiro e que, de forma indireta, calcula o conjunto de subfórmulas de uma fórmula.
 
   * Usando o [WolframAlpha](https://www.wolframalpha.com/input/?i=p+and+q+implies+r).
   * Assistindo aos [vídeos na playlist de Lógica para Computação](https://www.youtube.com/playlist?list=PLF5ttO8F-IsRGv0ad2ckPPpJALPG5N7jp).
