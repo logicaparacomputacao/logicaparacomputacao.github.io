@@ -59,4 +59,6 @@ Introdução à Lógica Computacional. Aplicações de Lógica na Computação. 
 
 Meu nome é Adolfo Neto e sou professor do [Departamento Acadêmico de Informática (DAINF)](https://utfpr.curitiba.br/dainf/) da [UTFPR Curitiba](https://utfpr.curitiba.br/) desde [2008](https://pt.wikipedia.org/wiki/2008).
 
-Faço parte da equipe do Programa de Extensão "Emílias - Armação em Bits", onde coordeno o Emílias Podcast - Mulheres na Computação.
+Faço parte da equipe do [Programa de Extensão "Emílias - Armação em Bits"](https://utfpr.curitiba.br/emilias), onde coordeno o [Emílias Podcast - Mulheres na Computação](https://adolfont.github.io/extension/podcasts/emilias).
+
+Coordeno também o [Fronteiras da Engenharia de Software](https://fronteirases.github.io/), o [Elixir em Foco](https://www.elixiremfoco.com/) e o [Professor Adolfo Neto](https://podcasters.spotify.com/pod/show/adolfont). Faço parte da equipe do [Hello, Erlang!](https://helloerlang.github.io/)
