@@ -53,4 +53,10 @@ Introdução à Lógica Computacional. Aplicações de Lógica na Computação. 
 
   * CONIGLIO, Marcelo; CARNIELLI, Walter A.; BIANCONI, Ricardo. Lógica e Aplicações (em andamento). Disponível em: <http://www.cle.unicamp.br/prof/coniglio/LIVRO.pdf>. Acesso em: 14 set. 2021.
   
-  * SOUZA, João Nunes de. Lógica para ciência da computação: fundamentos de linguagem, semântica e sistemas de dedução. Rio de Janeiro: Campus, 2008. 
+  * SOUZA, João Nunes de. Lógica para ciência da computação: fundamentos de linguagem, semântica e sistemas de dedução. Rio de Janeiro: Campus, 2008.
+
+# Sobre mim
+
+Meu nome é Adolfo Neto e sou professor do [Departamento Acadêmico de Informática (DAINF)](https://utfpr.curitiba.br/dainf/) da [UTFPR Curitiba](https://utfpr.curitiba.br/) desde [2008](https://pt.wikipedia.org/wiki/2008).
+
+Faço parte da equipe do Programa de Extensão "Emílias - Armação em Bits", onde coordeno o Emílias Podcast - Mulheres na Computação.
