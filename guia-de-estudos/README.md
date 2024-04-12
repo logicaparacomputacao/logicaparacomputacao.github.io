@@ -50,6 +50,7 @@ A pessoa estudante  deverá ser capaz de:
   * Verificar se uma fórmula é consequência lógica de outra fórmula
   * Verificar se uma fórmula é consequência lógica de um conjunto de fórmulas
   * Verificar se duas fórmulas são logicamente equivalentes
+  * Definir conectivos uns a partir dos outros
   * Verificar se uma fórmula usando um novo conectivo é consequência lógica de uma ou mais fórmulas usando um novo conectivo
   * Verificar se uma fórmula usando um novo conectivo é logicamente equivalente a uma fórmula usando os conectivos vistos anteriormente
   * Descrever a importância de verificar se uma fórmula é consequência lógica de um conjunto de fórmulas
