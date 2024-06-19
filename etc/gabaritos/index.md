@@ -6,5 +6,5 @@
 
 {% include youtube.html id="nU-mgRrwikA" %}
 
-- [Prova]()
-- [Gabarito]() 
+- [Prova](./arquivos/Prova_2_2022_1_Modelo_Rec.pdf)
+- [Gabarito](./arquivos/Gabarito_Prova_2_2022_1_Modelo_Rec.pdf) 
