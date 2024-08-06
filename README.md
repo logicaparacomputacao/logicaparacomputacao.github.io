@@ -14,6 +14,10 @@ Este é o site da disciplina [ICSD20 - Introdução à Lógica para a Computaç�
 
 A disciplina [CAIA013 - Lógica para Computação](http://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct/documentos/ementario/disciplinas-especificas/linha-de-pesquisa-em-sistemas-inteligentes-e-logica/caia013-logica-para-computacao), do [Programa de Pós-Graduação em Computação Aplicada (PPGCA)](http://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct), acontece de forma espelhada com Introdução a Lógica para Computação, incluindo  Pesquisa em Lógica para Computação e Implementação de provadores automáticos de teoremas.
 
+Primeiro vídeo da [playlist de Lógica para Computação](https://youtube.com/playlist?list=PLF5ttO8F-IsRGv0ad2ckPPpJALPG5N7jp&si=3uhcNIKXQEsHfJFE):
+
+{% include youtube.html id="kMHHvIqc7h0" %}  
+
 
 
 ## Objetivos
